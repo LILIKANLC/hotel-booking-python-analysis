@@ -1,7 +1,7 @@
 # Hotel Booking Demand: Why Do Guests Cancel?
 
 ## Project Overview
-Cancellations are a major challenge for the hospitality industry—an empty room that was booked and canceled represents lost revenue. In this project, I analyze **119,390 bookings** from two hotels in Portugal (a City Hotel and a Resort Hotel) covering arrival dates from July 2015 to August 2017.
+Cancellations are a major challenge for the hospitality industry-an empty room that was booked and canceled represents lost revenue. In this project, I analyze **119,390 bookings** from two hotels in Portugal (a City Hotel and a Resort Hotel) covering arrival dates from July 2015 to August 2017.
 
 Drawing on my real-world experience working in a hotel, I combine exploratory data analysis with domain knowledge and statistical hypothesis testing to identify the main drivers of cancellations and provide actionable business recommendations.
 
@@ -29,6 +29,6 @@ The dataset used in this analysis is the **Hotel Booking Demand** dataset from [
 - **Statistical Testing:** SciPy (Welch's t-test, Chi-square test of independence)
 
 ## Repository Structure
-- `hotel_bookings_analysis.ipynb` — Full analysis, visualizations, statistical tests, and business recommendations.
-- `hotel_bookings.csv` — Dataset from Kaggle.
+- `hotel_bookings_analysis.ipynb` - Full analysis, visualizations, statistical tests, and business recommendations.
+- `hotel_bookings.csv` - Dataset from Kaggle.
 

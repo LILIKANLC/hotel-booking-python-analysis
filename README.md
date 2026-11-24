@@ -16,6 +16,18 @@ The dataset used in this analysis is the **Hotel Booking Demand** dataset from [
 - **Pricing & Channel Hypothesis (Welch's t-test):** Controlling for hotel type, Online TA guests do **not** pay lower rates than Direct guests. In fact, Direct guests pay slightly more (+€2.6 to +€3.2 per night, *p* < 0.05).
 - **Seasonality & Families:** The Resort Hotel relies heavily on summer dynamic pricing (ADR jumps from **€46 in January to €190 in August**). Bookings with children generate **+43% more revenue** per booking in the City Hotel and **+80% more** in the Resort Hotel.
 
+## Visual Highlights
+
+### 1. Lead Time & Cancellation Risk
+![Lead Time and Cancellation Rate](lead_time_cancellations.png)
+
+### 2. Seasonality: Guest Volume & Average Daily Rate (2016)
+![Confirmed Guests and Average ADR by Month](monthly_guests_and_adr.png)
+
+### 3. Revenue per Booking & Length of Stay
+![Average Revenue and Length of Stay](revenue_and_stay_duration.png)
+
+
 ## Key Business Recommendations
 - **Shift guests to Direct bookings with perks, not discounts:** Offer late check-out or a welcome drink on the hotel website to save agency commissions without lowering ADR.
 - **Tighten rules for high-risk bookings:** Introduce partial prepayments or non-refundable rates for Online TA and Group bookings made 90+ days in advance.

@@ -10,7 +10,7 @@ The dataset used in this analysis is the **Hotel Booking Demand** dataset from [
 
 ## Key Findings
 - **Overall Cancellation Rate:** **27.7%** of all cleaned bookings (86,637) were canceled, representing roughly **€11.5M (33.3%)** in estimated booked revenue. The City Hotel has a higher cancellation rate (**30.2%**) than the Resort Hotel (**23.7%**).
-- **Lead Time Impact:** Cancellation risk rises sharply with lead time—from **8.5%** (0–7 days before arrival) to **39.9%** (180+ days in advance).
+- **Lead Time Impact:** Cancellation risk rises sharply with lead time-from **8.5%** (0-7 days before arrival) to **39.9%** (180+ days in advance).
 - **Booking Channels:** **Online Travel Agencies (Online TA)** generate 59% of all bookings and have the highest cancellation rate (**35.6%**), more than double that of **Direct** (**14.9%**) and **Corporate** (**12.2%**) bookings.
 - **Guest Engagement & Loyalty:** Repeated guests cancel significantly less (**8.2%** vs. 28.4%), as do guests who make at least one special request (**21.8%** vs. 33.5%, especially in the City Hotel).
 - **Pricing & Channel Hypothesis (Welch's t-test):** Controlling for hotel type, Online TA guests do **not** pay lower rates than Direct guests. In fact, Direct guests pay slightly more (+€2.6 to +€3.2 per night, *p* < 0.05).

@@ -27,6 +27,7 @@ The dataset used in this analysis is the **Hotel Booking Demand** dataset from [
 - **Data Manipulation:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 - **Statistical Testing:** SciPy (Welch's t-test, Chi-square test of independence)
+- **Environment:** VS Code (Jupyter Notebook extension)
 
 ## Repository Structure
 - `hotel_bookings_analysis.ipynb` - Full analysis, visualizations, statistical tests, and business recommendations.

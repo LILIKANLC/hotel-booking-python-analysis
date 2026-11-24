@@ -19,7 +19,7 @@ The dataset used in this analysis is the **Hotel Booking Demand** dataset from [
 ## Visual Highlights
 
 ### 1. Lead Time & Cancellation Risk
-![Lead Time and Cancellation Rate](lead_time_cancellations.png)
+<img width="1484" height="584" alt="lead_time_cancellations" src="https://github.com/user-attachments/assets/891ebf22-b784-4523-8c64-7265e32bd32b" />
 
 ### 2. Seasonality: Guest Volume & Average Daily Rate (2016)
 ![Confirmed Guests and Average ADR by Month](monthly_guests_and_adr.png)

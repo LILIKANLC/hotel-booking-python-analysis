@@ -6,7 +6,7 @@ Cancellations are a major challenge for the hospitality industry-an empty room t
 Drawing on my real-world experience working in a hotel, I combine exploratory data analysis with domain knowledge and statistical hypothesis testing to identify the main drivers of cancellations and provide actionable business recommendations.
 
 ## Dataset
-The dataset used in this analysis is the **Hotel Booking Demand** dataset from [Kaggle](https://kaggle.com) (originally compiled by Antonio, Almeida, and Nunes, 2019).
+The dataset used in this analysis is the **Hotel Booking Demand** dataset from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) (originally compiled by Antonio, Almeida, and Nunes, 2019).
 
 ## Key Findings
 - **Overall Cancellation Rate:** **27.7%** of all cleaned bookings (86,637) were canceled, representing roughly **€11.5M (33.3%)** in estimated booked revenue. The City Hotel has a higher cancellation rate (**30.2%**) than the Resort Hotel (**23.7%**).

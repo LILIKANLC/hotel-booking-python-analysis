@@ -22,10 +22,10 @@ The dataset used in this analysis is the **Hotel Booking Demand** dataset from [
 <img width="1484" height="584" alt="lead_time_cancellations" src="https://github.com/user-attachments/assets/891ebf22-b784-4523-8c64-7265e32bd32b" />
 
 ### 2. Seasonality: Guest Volume & Average Daily Rate (2016)
-![Confirmed Guests and Average ADR by Month](monthly_guests_and_adr.png)
+<img width="1484" height="484" alt="monthly_guests_and_adr" src="https://github.com/user-attachments/assets/4d473d19-8be3-4dd5-895d-9f02e3c7755d" />
 
 ### 3. Revenue per Booking & Length of Stay
-![Average Revenue and Length of Stay](revenue_and_stay_duration.png)
+<img width="1484" height="484" alt="revenue_and_stay_duration" src="https://github.com/user-attachments/assets/6c8c7db9-7742-4c93-b1c7-4c26d7d64c1d" />
 
 
 ## Key Business Recommendations
